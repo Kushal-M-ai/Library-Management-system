@@ -1,0 +1,61 @@
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 1
+
+1 - Java Basics by James Gosling (Available)
+2 - Python Essentials by Guido van Rossum (Available)
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 2
+
+101 - Alice
+102 - Bob
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 3
+Enter Book ID to issue: 1
+Book issued successfully.
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 1
+
+1 - Java Basics by James Gosling (Issued)
+2 - Python Essentials by Guido van Rossum (Available)
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 4
+Enter Book ID to return: 1
+Book returned successfully.
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 5
+Exiting... Thank you!
